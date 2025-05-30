@@ -1,3 +1,4 @@
+
 flowchart TD
     subgraph PHASE1 ["🏢 GIAI ĐOẠN 1: THIẾT LẬP KPI (ĐẦU NĂM)"]
         A["🎯 Bắt đầu thiết lập KPI<br/>cho năm mới"] --> B["👤 NHÂN VIÊN<br/>📱 Tạo yêu cầu phê duyệt<br/>Power Apps"]
